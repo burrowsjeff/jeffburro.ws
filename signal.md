@@ -1,4 +1,4 @@
-% Jeff Burrows
+% Burrows - Signal
 
 ***
 
