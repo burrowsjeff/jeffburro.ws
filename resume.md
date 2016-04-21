@@ -1,11 +1,9 @@
 % Jeff Burrows
 
-<div style="float:right">
-	[linkedin.com/in/jeff-burrows-114a5012](https://www.linkedin.com/in/jeff-burrows-114a5012)
-<div style="float:left">
-	[burrows.spam@gmail.com](mailto:burrows.spam@gmail.com)
-</div>
-<div style="clear:both"></div>
+|   |   |
+|---|---:|
+|[burrows.spam@gmail.com](mailto:burrows.spam@gmail.com)|[linkedin.com/in/jeff-burrows-114a5012](https://www.linkedin.com/in/jeff-burrows-114a5012)|
+
 
 ***
 
@@ -115,5 +113,11 @@ Address: 300 E University Blvd # 120, Tucson, AZ 85705
 )
 
 [comment7]: <> (
-<div style="float:left">[burrows.spam@gmail.com](mailto:burrows.spam@gmail.com)</div><div style="float:right">[linkedin.com/in/jeff-burrows-114a5012](https://www.linkedin.com/in/jeff-burrows-114a5012)</div><div sytle="clear:both;"></div>
+<div style="float:left">
+	[burrows.spam@gmail.com](mailto:burrows.spam@gmail.com)
+</div>
+<div style="float:right">
+ 	[linkedin.com/in/jeff-burrows-114a5012](https://www.linkedin.com/in/jeff-burrows-114a5012)
+</div>
+<div style="clear:both"></div>
 )

@@ -61,7 +61,24 @@
       }
       table {
         border-collapse: collapse;
-        border-spacing: 0;
+        width: 100%;
+        }
+        table td, table th {
+        border: 0px solid black;
+        }
+        table tr:first-child th {
+        border-top: 0;
+        }
+        table tr:last-child td {
+        border-bottom: 0;
+        }
+        table tr td:first-child,
+        table tr th:first-child {
+        border-left: 0;
+        }
+        table tr td:last-child,
+        table tr th:last-child {
+        border-right: 0;
       }
       tr.even {
         background-color: #f0f0f0;
@@ -93,14 +110,19 @@
 <div id="header">
 <h1 class="title">Jeff Burrows</h1>
 </div>
-<div style="float:right">
-<pre><code>[linkedin.com/in/jeff-burrows-114a5012](https://www.linkedin.com/in/jeff-burrows-114a5012)</code></pre>
-<div style="float:left">
-<pre><code>[burrows.spam@gmail.com](mailto:burrows.spam@gmail.com)</code></pre>
-</div>
-<div style="clear:both">
-
-</div>
+<table>
+<tbody>
+<tr class="odd">
+<td align="left"><script type="text/javascript">
+<!--
+h='&#x67;&#x6d;&#x61;&#x69;&#108;&#46;&#x63;&#x6f;&#x6d;';a='&#64;';n='&#98;&#x75;&#114;&#114;&#x6f;&#x77;&#x73;&#46;&#x73;&#112;&#x61;&#x6d;';e=n+a+h;
+document.write('<a h'+'ref'+'="ma'+'ilto'+':'+e+'" clas'+'s="em' + 'ail">'+e+'<\/'+'a'+'>');
+// -->
+</script><noscript>&#98;&#x75;&#114;&#114;&#x6f;&#x77;&#x73;&#46;&#x73;&#112;&#x61;&#x6d;&#32;&#x61;&#116;&#32;&#x67;&#x6d;&#x61;&#x69;&#108;&#32;&#100;&#x6f;&#116;&#32;&#x63;&#x6f;&#x6d;</noscript></td>
+<td align="right"><a href="https://www.linkedin.com/in/jeff-burrows-114a5012">linkedin.com/in/jeff-burrows-114a5012</a></td>
+</tr>
+</tbody>
+</table>
 <hr />
 <h2 id="certifications-and-education">Certifications and Education</h2>
 <ul>
