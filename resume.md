@@ -1,11 +1,16 @@
 % Jeff Burrows
 
-
 <div style="float:left">
   [burrows.spam@gmail.com](mailto:burrows.spam@gmail.com)
 </div>
 <div style="float:right">
   [linkedin.com/in/jeff-burrows-114a5012](https://www.linkedin.com/in/jeff-burrows-114a5012)
+=======
+<div style="float:left">
+	[burrows.spam@gmail.com](mailto:burrows.spam@gmail.com)
+</div>
+<div style="float:right">
+	[linkedin.com/in/jeff-burrows-114a5012](https://www.linkedin.com/in/jeff-burrows-114a5012)
 </div>
 <div style="clear:both"></div>
 
