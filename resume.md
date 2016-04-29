@@ -7,13 +7,10 @@
 
 ***
 
-## Certifications and Education
+## Education
 
 * MBA, Finance Degree - University of Arizona: 2015
 * Accounting Degree - University of Arizona: 2007
-* Southwest Leadership Certification: 2013
-* Microsoft Master Office Certification: 2010
-* Project Management Certification - 2010
 
 ***
 
