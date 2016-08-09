@@ -1,3 +1,6 @@
+pandoc -H paperheader.html -f markdown -t html resume.md -o jeff_burrows_resume.html
+
+
 earldouglas
 Two ways to do this: you handle the conversion, or you let GitHub do it.
 7:42 The former is with pandoc and a script, the latter is to use something like Jekyll, which GitHub supports.
