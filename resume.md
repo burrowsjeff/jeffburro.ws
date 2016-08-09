@@ -20,11 +20,11 @@
 
 **_2015-Present_**
 
-* Risk Management and Governance Consulting based on the following security frameworks:
+* Risk management and corporate governance consulting based on the following security frameworks:
 	* ISO 27001
 	* NIST 800
 	* HIPAA
-* Created and reviewed corporate policy
+* Create and review corporate policy
 * Assess and advise state of technology infrastructure
 * Generate and peer review customer-facing documents
 
