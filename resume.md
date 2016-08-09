@@ -16,7 +16,7 @@
 
 ## Professional Experience
 
-### Associate Security Consultant - NCC Group, Inc.
+### Security Consultant - NCC Group, Inc.
 
 **_2015-Present_**
 
