@@ -1,0 +1,61 @@
+earldouglas
+Two ways to do this: you handle the conversion, or you let GitHub do it.
+7:42 The former is with pandoc and a script, the latter is to use something like Jekyll, which GitHub supports.
+7:43 I prefer the former, because simplicity and flexibility.
+7:43 e.g. (1) edit markdown (2) pandoc -f markdown -t html index.md -o index.html (3) commit and push
+7:44 The nice thing is you can tell pandoc to include things in the header, like a title or a stylesheet, etc.
+7:44 So all your source material is plain and simple markdown.
+7:45 And if you need to make a slideshow: pandoc -f markdown -t slidy mypresentation.md -o mypresentation.html
+7:45 Pandoc also handles latex, and a zillion other formats.
+
+sudosandwiches
+7:46 Awesome. So this is probably a dumb question:
+7:47 If I reference a stylesheet in the header and then convert it to html with pandoc, does it reference that stylesheet? Or does it make those references absolute so the html becomes a standalone document?
+
+earldouglas
+7:47 You can do either.
+7:48 Coincidentally, I just switched from one to the other a few minutes ago.
+7:48 I was including /style.css in every page, but I decided it's lame to do a second http request.  So I switched to just include the css in the page itself.
+7:48 You do it with: pandoc -H myheader.html
+
+There you go, buddy: https://github.com/burrowsjeff/jeffburro.ws/pull/1
+sectery
+8:06 Maintain site source in Markdown by earldouglas · Pull Request #1 · burrowsjeff/jeffburro.ws · GitHub
+earldouglas
+8:06 1: Edit some .md files
+8:06 2: Run `make`
+8:07 3: git add -A ; git commit -m "Jeff is cool" ; git push origin gh-pages
+8:07 4: Glory
+8:07 You'll need pandoc and gnu make
+8:08 You can edit css styles in _header.html
+
+earldouglas
+8:12 sudosandwiches: Note the first three lines that start with a percent symbol in the markdown file.
+earldouglas
+8:12 Pandoc uses these for title, author, and date, respectively.
+8:12 You can omit them or leave them blank.
+8:13 But the title one is nice, because it gets added to <head><title>
+
+sudosandwiches
+8:17 Okay, thanks.
+8:17 Can pandoc output markdown to pdf?
+8:17 (I'm wondering if I can use it for my resume as well)
+earldouglas
+8:18 Yes
+8:18 You'll want a latex template for that.
+8:18 And I don't know latex well engouh.
+8:19 http://pandoc.org/getting-started.html
+
+
+
+https://github.com/mszep/pandoc_resume
+
+Looks like you need: (1) your resume.md file (2) this guy's style_whatever.tex template and (3) this command:
+12:37 pandoc --standalone --template style_chmduquesne.tex \
+12:37     --from markdown --to context \
+12:37     -V papersize=A4 \
+12:37     -o resume.tex resume.md; \
+12:37     context resume.tex
+12:37 Probably his css file too: style_chmduquesne.css
+
+pandoc --standalone --template style_chmduquesne.tex --from markdown --to context -V papersize=A4 -o resume.tex resume.md; context resume.tex
