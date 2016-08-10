@@ -2,7 +2,7 @@
 
 |   |   |
 |---|---:|
-|[burrows.spam@gmail.com](mailto:burrows.spam@gmail.com)|[linkedin.com/in/jeff-burrows-114a5012](https://www.linkedin.com/in/jeff-burrows-114a5012)|
+|[burrows.jeff@gmail.com](mailto:burrows.jeff@gmail.com)|[linkedin.com/in/jeff-burrows-114a5012](https://www.linkedin.com/in/jeff-burrows-114a5012)|
 
 
 ***
