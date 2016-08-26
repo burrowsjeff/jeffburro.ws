@@ -74,8 +74,8 @@ Address: 47 E Pennington St, Tucson, AZ 85701
 * Invoice and report 12 SBIR government contracts
 * Conduct internal audits on a monthly basis, including audit reports
 * Design and implemented $4 million budget process including review
-* Generate and analyse sales reports to guide business decisions and predict future sales
-* Prepare and presentation of quarterly financial statements to CEO
+* Generate and analyze sales reports to guide business decisions and predict future sales
+* Prepare and present quarterly financial statements to CEO
 
 [comment4]: <> (
 Phone number: 520.742.3300
