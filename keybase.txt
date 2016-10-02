@@ -1,0 +1,54 @@
+==================================================================
+https://keybase.io/burrowsjeff
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://jeffburro.ws
+  * I am burrowsjeff (https://keybase.io/burrowsjeff) on keybase.
+  * I have a public key ASBZCqvRqJecL_w1XN9wjv6_sdQZUJa4HOmyj_ilp-YsLAo
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "0120590aabd1a8979c2ffc355cdf708efebfb1d4195096b81ce9b28ff8a5a7e62c2c0a",
+            "host": "keybase.io",
+            "kid": "0120590aabd1a8979c2ffc355cdf708efebfb1d4195096b81ce9b28ff8a5a7e62c2c0a",
+            "uid": "8b6e1886d01d907caeb75a7e11071419",
+            "username": "burrowsjeff"
+        },
+        "service": {
+            "hostname": "jeffburro.ws",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "client": {
+        "name": "keybase.io go client",
+        "version": "1.0.17"
+    },
+    "ctime": 1475429670,
+    "expire_in": 504576000,
+    "merkle_root": {
+        "ctime": 1475429558,
+        "hash": "9c04d71dfe13b561a31dbad9431cddc39b5ebe201359e5769114aa828b6d776cd0f194da5c2c96934baac0b0f6b316f16b60701d5e4f14686de3948d5d1c3028",
+        "seqno": 661193
+    },
+    "prev": "88d73e4c12c72efbf8e3756a06ada0b7fba47894d508abe758279b7593774191",
+    "seqno": 5,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgWQqr0aiXnC/8NVzfcI7+v7HUGVCWuBzpso/4pafmLCwKp3BheWxvYWTFAvZ7ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTIwNTkwYWFiZDFhODk3OWMyZmZjMzU1Y2RmNzA4ZWZlYmZiMWQ0MTk1MDk2YjgxY2U5YjI4ZmY4YTVhN2U2MmMyYzBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwNTkwYWFiZDFhODk3OWMyZmZjMzU1Y2RmNzA4ZWZlYmZiMWQ0MTk1MDk2YjgxY2U5YjI4ZmY4YTVhN2U2MmMyYzBhIiwidWlkIjoiOGI2ZTE4ODZkMDFkOTA3Y2FlYjc1YTdlMTEwNzE0MTkiLCJ1c2VybmFtZSI6ImJ1cnJvd3NqZWZmIn0sInNlcnZpY2UiOnsiaG9zdG5hbWUiOiJqZWZmYnVycm8ud3MiLCJwcm90b2NvbCI6Imh0dHA6In0sInR5cGUiOiJ3ZWJfc2VydmljZV9iaW5kaW5nIiwidmVyc2lvbiI6MX0sImNsaWVudCI6eyJuYW1lIjoia2V5YmFzZS5pbyBnbyBjbGllbnQiLCJ2ZXJzaW9uIjoiMS4wLjE3In0sImN0aW1lIjoxNDc1NDI5NjcwLCJleHBpcmVfaW4iOjUwNDU3NjAwMCwibWVya2xlX3Jvb3QiOnsiY3RpbWUiOjE0NzU0Mjk1NTgsImhhc2giOiI5YzA0ZDcxZGZlMTNiNTYxYTMxZGJhZDk0MzFjZGRjMzliNWViZTIwMTM1OWU1NzY5MTE0YWE4MjhiNmQ3NzZjZDBmMTk0ZGE1YzJjOTY5MzRiYWFjMGIwZjZiMzE2ZjE2YjYwNzAxZDVlNGYxNDY4NmRlMzk0OGQ1ZDFjMzAyOCIsInNlcW5vIjo2NjExOTN9LCJwcmV2IjoiODhkNzNlNGMxMmM3MmVmYmY4ZTM3NTZhMDZhZGEwYjdmYmE0Nzg5NGQ1MDhhYmU3NTgyNzliNzU5Mzc3NDE5MSIsInNlcW5vIjo1LCJ0YWciOiJzaWduYXR1cmUifaNzaWfEQCCVGWrXd72alm37DseOi80KWHfjgCix3booABc9ufTuOaAiUR0v09DqNleijTzXvYsm8VYpf7Pm29VLfG5JDwOoc2lnX3R5cGUgpGhhc2iCpHR5cGUIpXZhbHVlxCBKS6n48gv3VmC2IsovCR4E7ZYCiIni56SRZhF0SLtZUqN0YWfNAgKndmVyc2lvbgE=
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/burrowsjeff
+
+==================================================================
