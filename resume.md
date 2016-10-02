@@ -2,7 +2,7 @@
 
 |   |   |
 |---|---:|
-|[burrows.jeff@gmail.com](mailto:burrows.jeff@gmail.com)|[linkedin.com/in/jeff-burrows-114a5012](https://www.linkedin.com/in/jeff-burrows-114a5012)|
+|[burrows.spam@gmail.com](mailto:burrows.spam@gmail.com)|[linkedin.com/in/jeff-burrows-114a5012](https://www.linkedin.com/in/jeff-burrows-114a5012)|
 
 
 ***
@@ -11,6 +11,7 @@
 
 * MBA, Finance Degree - University of Arizona: 2015
 * Accounting Degree - University of Arizona: 2007
+* ISO 27001 Lead Auditor Certification - PECB: 2016
 
 ***
 
@@ -20,15 +21,18 @@
 
 **_2015-Present_**
 
+* Project management for all consulting engagements
 * Risk management and corporate governance consulting based on the following security frameworks:
 	* ISO 27001
+	* SSAE16 SOC2
 	* NIST 800
 	* HIPAA
+* Plan, execute, and report on Internal Audit programs within various technology companies
 * Create and review corporate policy
-* Assess and advise state of technology infrastructure
+* Assess and advise on state of technology infrastructure
 * Generate and peer review customer-facing documents
 
-[comment1]: <> (
+[comment10]: <> (
 Phone number: 415.268.9300
 Address: 720 3rd Ave #2101, Seattle, WA 98104
 )
@@ -44,11 +48,12 @@ Address: 720 3rd Ave #2101, Seattle, WA 98104
 * Analyze cost history and current trends to create predictive reports with 96% accuracy
 * Manage capital infrastructure projects totalling over $2.8 Million over 18 months
 * Supervise all Human Resources, Operational, and Financial aspects of center
-* Formalize procedures and best practices and improve general workflow
-* Streamline process to enable and empower center programs and goals
 * Performance management of 5 administrative support personnel
 
-[comment2]: <> (
+[comment20]: <> (* Formalize procedures and best practices and improve general workflow
+* Streamline process to enable and empower center programs and goals)
+
+[comment30]: <> (
 Phone number: 520.621.2576
 Address: 1130 E. Helen St. Suite 202 Tucson, Arizona 85721
 )
@@ -61,7 +66,7 @@ Address: 1130 E. Helen St. Suite 202 Tucson, Arizona 85721
 * Create and implement performance evaluation of Executive Director
 * Ensure Arizona state academic standards are met and audit benchmarks are achieved
 
-[comment3]: <> (
+[comment40]: <> (
 Phone number: 520.623.7223
 Address: 47 E Pennington St, Tucson, AZ 85701
 )
@@ -77,7 +82,7 @@ Address: 47 E Pennington St, Tucson, AZ 85701
 * Generate and analyze sales reports to guide business decisions and predict future sales
 * Prepare and present quarterly financial statements to CEO
 
-[comment4]: <> (
+[comment50]: <> (
 Phone number: 520.742.3300
 Address: 6595 N Oracle Rd, Tucson, AZ 85704
 )
@@ -89,7 +94,7 @@ Address: 6595 N Oracle Rd, Tucson, AZ 85704
 * Teach 270 community college students vocational skills such as project design & management, general accounting through simulation, life skills and leadership
 * Design and implement various workshops and community projects with an average of 100 participants per event
 
-[comment5]: <> (
+[comment60]: <> (
 Phone number: 855.855.1961
 Address: 1111 20th Street, NW Washington, D.C. 20526
 )
@@ -104,12 +109,12 @@ Address: 1111 20th Street, NW Washington, D.C. 20526
 * Assist in creation of annual budget totalling around $1 million annually
 * Report monthly financial statements to the board of directors and senior leadership
 
-[comment6]: <> (
+[comment70]: <> (
 Phone number: 520.629.0510
 Address: 300 E University Blvd # 120, Tucson, AZ 85705
 )
 
-[comment7]: <> (
+[comment80]: <> (
 <div style="float:left">
 	[burrows.spam@gmail.com](mailto:burrows.spam@gmail.com)
 </div>
