@@ -21,13 +21,10 @@
 
 **_2015-Present_**
 
-* Project management for all consulting engagements
-* Risk management and corporate governance consulting based on the following security frameworks:
-	* ISO 27001
-	* SSAE16 SOC2
-	* NIST 800
-	* HIPAA
-* Plan, execute, and report on Internal Audit programs within various technology companies
+* Project management and technical coordination with 20+ tech-based clients
+* Risk management security consulting based on the following frameworks:
+	* ISO, SSAE16 SOC2, NIST 800, HIPAA
+* Plan, execute, and report on internal audit programs
 * Create and review corporate policy
 * Assess and advise on state of technology infrastructure
 * Generate and peer review customer-facing documents
@@ -41,14 +38,13 @@ Address: 720 3rd Ave #2101, Seattle, WA 98104
 
 **_2012-2015_**
 
+* Coordinate capital infrastructure projects totalling over $2.8 Million over 18 months
 * Create and negotiate $1.5M annual budget based on multiple fund sources
 * Responsible for the stewardship of $14M in endowed funds
-* Create 3-5 grant proposals per year and report back to funding agency on progress
-* Generate and analyze financial reports to guide business decisions and increase effectiveness
-* Analyze cost history and current trends to create predictive reports with 96% accuracy
-* Manage capital infrastructure projects totalling over $2.8 Million over 18 months
-* Supervise all Human Resources, Operational, and Financial aspects of center
-* Performance management of 5 administrative support personnel
+* Generate and analyze financial reports to guide business decisions
+* Generate cost predictions with 96% accuracy
+* Create 3-5 grant proposals per year and report progress to funding agency
+* Management of 5 administrative support personnel
 
 [comment20]: <> (* Formalize procedures and best practices and improve general workflow
 * Streamline process to enable and empower center programs and goals)
@@ -75,12 +71,12 @@ Address: 47 E Pennington St, Tucson, AZ 85701
 
 **_2011-2012_**
 
-* Manage $70,000 bi-weekly payroll for 25+ employees
-* Invoice and report 12 SBIR government contracts
-* Conduct internal audits on a monthly basis, including audit reports
-* Design and implemented $4 million budget process including review
+* Manage monthly internal auditsand report results
 * Generate and analyze sales reports to guide business decisions and predict future sales
 * Prepare and present quarterly financial statements to CEO
+* Design and implemented $4 million budget process including review
+* Manage $70,000 bi-weekly payroll for 25+ employees
+* Invoice and report 12 SBIR government contracts
 
 [comment50]: <> (
 Phone number: 520.742.3300
@@ -91,13 +87,14 @@ Address: 6595 N Oracle Rd, Tucson, AZ 85704
 
 **_2008-2010_**
 
-* Teach 270 community college students vocational skills such as project design & management, general accounting through simulation, life skills and leadership
-* Design and implement various workshops and community projects with an average of 100 participants per event
+* Plan, coordinate, and implement over 30 community events
+* Teach 270 college students vocational skills including:
+	* Project design & management, accounting through simulation, life skills, and leadership
 
+<!--
 [comment60]: <> (
 Phone number: 855.855.1961
 Address: 1111 20th Street, NW Washington, D.C. 20526
-)
 
 ### Staff Accountant – Tucson Audubon Society
 
@@ -109,10 +106,13 @@ Address: 1111 20th Street, NW Washington, D.C. 20526
 * Assist in creation of annual budget totalling around $1 million annually
 * Report monthly financial statements to the board of directors and senior leadership
 
+)
+
 [comment70]: <> (
 Phone number: 520.629.0510
 Address: 300 E University Blvd # 120, Tucson, AZ 85705
 )
+-->
 
 [comment80]: <> (
 <div style="float:left">
