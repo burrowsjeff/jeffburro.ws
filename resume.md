@@ -24,9 +24,10 @@
 * Project management and technical coordination with 20+ tech-based clients
 * Risk management security consulting based on the following frameworks:
 	* ISO, SSAE16 SOC2, NIST 800, HIPAA
-* Plan, execute, and report on internal audit programs
-* Create and review corporate policy
-* Assess and advise on state of technology infrastructure
+* Plan, execute, and report on internal audit programs for certification and surveillance
+* Create and review corporate security policies
+* Assess and advise on state of technology infrastructure using the following tools:
+	* Git, JIRA, AWS, Docker, Splunk, SUMO, Elk, LaTeX, Basecamp, Markdown, GPG
 * Generate and peer review customer-facing documents
 
 [comment10]: <> (
@@ -44,7 +45,7 @@ Address: 720 3rd Ave #2101, Seattle, WA 98104
 * Generate and analyze financial reports to guide business decisions
 * Generate cost predictions with 96% accuracy
 * Create 3-5 grant proposals per year and report progress to funding agency
-* Management of 5 administrative support personnel
+* Manage 5 administrative support personnel
 
 [comment20]: <> (* Formalize procedures and best practices and improve general workflow
 * Streamline process to enable and empower center programs and goals)
@@ -71,7 +72,7 @@ Address: 47 E Pennington St, Tucson, AZ 85701
 
 **_2011-2012_**
 
-* Manage monthly internal auditsand report results
+* Manage monthly internal audits and report results
 * Generate and analyze sales reports to guide business decisions and predict future sales
 * Prepare and present quarterly financial statements to CEO
 * Design and implemented $4 million budget process including review
