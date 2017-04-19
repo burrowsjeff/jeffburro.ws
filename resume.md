@@ -25,9 +25,10 @@
 * Risk management security consulting based on the following frameworks:
 	* ISO, SSAE16 SOC2, NIST 800, HIPAA
 * Plan, execute, and report on internal audit programs for certification and surveillance
+	* Leverage primarily AWS technologies including Cloudtrail and Trusted Advisor
 * Create and review corporate security policies
 * Assess and advise on state of technology infrastructure using the following tools:
-	* Git, JIRA, AWS, Docker, Splunk, SUMO, Elk, LaTeX, Basecamp, Markdown, GPG
+	* Git, JIRA, AWS, Docker, Splunk, SUMO, Elk, LaTeX, Basecamp
 * Generate and peer review customer-facing documents
 
 [comment10]: <> (
