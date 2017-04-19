@@ -40,7 +40,7 @@ Address: 720 3rd Ave #2101, Seattle, WA 98104
 
 **_2012-2015_**
 
-* Coordinate capital infrastructure projects totaling over $2.8 Million over 18 months
+* Coordinate capital infrastructure projects totaling over $2.8M over 18 months
 * Create and negotiate $1.5M annual budget based on multiple fund sources
 * Responsible for the stewardship of $14M in endowed funds
 * Generate and analyze financial reports to guide business decisions
@@ -76,7 +76,7 @@ Address: 47 E Pennington St, Tucson, AZ 85701
 * Manage monthly internal audits and report results
 * Generate and analyze sales reports to guide business decisions and predict future sales
 * Prepare and present quarterly financial statements to CEO
-* Design and implemented $4 million budget process including review
+* Design and implemented $4M budget process including review
 * Manage $70,000 bi-weekly payroll for 25+ employees
 * Invoice and report 12 SBIR government contracts
 
