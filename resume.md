@@ -21,8 +21,8 @@
 
 **_2015-Present_**
 
-* Project management and technical coordination with 20+ tech-based clients
-* Risk management security consulting based on the following frameworks:
+* Project management and technical coordination for 20+ tech-based clients
+* Risk management and security consulting based on the following frameworks:
 	* ISO, SSAE16 SOC2, NIST 800, HIPAA
 * Plan, execute, and report on internal audit programs for certification and surveillance
 	* Leverage primarily AWS technologies including Cloudtrail and Trusted Advisor
@@ -40,7 +40,7 @@ Address: 720 3rd Ave #2101, Seattle, WA 98104
 
 **_2012-2015_**
 
-* Coordinate capital infrastructure projects totalling over $2.8 Million over 18 months
+* Coordinate capital infrastructure projects totaling over $2.8 Million over 18 months
 * Create and negotiate $1.5M annual budget based on multiple fund sources
 * Responsible for the stewardship of $14M in endowed funds
 * Generate and analyze financial reports to guide business decisions
@@ -93,6 +93,10 @@ Address: 6595 N Oracle Rd, Tucson, AZ 85704
 * Teach 270 college students vocational skills including:
 	* Project design & management, accounting through simulation, life skills, and leadership
 
+
+***
+
+**_Additional experience and references available upon request_**
 <!--
 [comment60]: <> (
 Phone number: 855.855.1961
