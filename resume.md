@@ -22,6 +22,7 @@
 **_2015-Present_**
 
 * Project management and technical coordination for 20+ tech-based clients
+	* Utilize agile development, iterative design, cross-team coordination across different global regions
 * Risk management and security consulting based on the following frameworks:
 	* ISO, SSAE16 SOC2, NIST 800, HIPAA
 * Plan, execute, and report on internal audit programs for certification and surveillance
