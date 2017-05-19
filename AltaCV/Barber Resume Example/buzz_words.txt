@@ -1,0 +1,38 @@
+\cvtag{Android}
+\cvtag{Auth}
+\cvtag{AWS}
+\cvtag{Bash}
+\cvtag{Botnets}
+\cvtag{Bug Bounty}
+\cvtag{Burpsuite}
+\cvtag{CCDC}
+\cvtag{Code Review}
+\cvtag{Cryptography}
+\cvtag{CTF}
+\cvtag{Development}
+\cvtag{Exploitation}
+\cvtag{Flask}
+\cvtag{git}
+\cvtag{HTTP}
+\cvtag{iOS}
+\cvtag{Java}
+\cvtag{JavaScript}
+\cvtag{Kali}
+\cvtag{LaTeX}
+\cvtag{Linux}
+\cvtag{Metasploit}
+\cvtag{Mobile}
+\cvtag{Netpen}
+\cvtag{Nmap}
+\cvtag{OAuth 2.0}
+\cvtag{OSINIT}
+\cvtag{OWASP Top 10}
+\cvtag{Perl}
+\cvtag{PHP}
+\cvtag{Python}
+\cvtag{Red Teaming}
+\cvtag{Ruby}
+\cvtag{SAML}
+\cvtag{SDLC}
+\cvtag{SSO}
+\cvtag{TLS}
