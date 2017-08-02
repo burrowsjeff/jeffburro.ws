@@ -1,0 +1,15 @@
+\cvtag{Budgeting}
+\cvtag{Technical Writing}
+\cvtag{Management}
+\cvtag{Process improvement}
+\cvtag{Roadmapping}
+\cvtag{ISO}
+\cvtag{SOC2}
+\cvtag{HIPAA}
+\cvtag{SQL}
+\cvtag{Burpsuite}
+\cvtag{git}
+\cvtag{Basecamp}
+\cvtag{OWASP Top 10}
+\cvtag{SDLC}
+\cvtag{TLS}

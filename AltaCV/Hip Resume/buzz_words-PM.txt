@@ -1,0 +1,24 @@
+\cvtag{Basecamp}
+\cvtag{Agile}
+\cvtag{Scrum}
+\cvtag{Technical Writing}
+\cvtag{SQL}
+\cvtag{SDLC}
+\cvtag{git}
+\cvtag{JIRA}
+\cvtag{AWS}
+\cvtag{Docker}
+\cvtag{Splunk}
+\cvtag{SUMO}
+\cvtag{ELK}
+\cvtag{ISO}
+\cvtag{SOC2}
+\cvtag{Bash}
+\cvtag{NIST 800}
+\cvtag{HIPAA}
+\cvtag{Burpsuite}
+\cvtag{LaTeX}
+\cvtag{HTTP}
+\cvtag{OWASP Top 10}
+\cvtag{TLS}
+\cvtag{Budgeting}

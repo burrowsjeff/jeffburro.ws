@@ -4,6 +4,7 @@
 \cvtag{Bash}
 \cvtag{NIST 800}
 \cvtag{HIPAA}
+\cvtag{SQL}
 \cvtag{Burpsuite}
 \cvtag{git}
 \cvtag{JIRA}
