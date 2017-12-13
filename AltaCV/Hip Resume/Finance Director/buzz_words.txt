@@ -1,0 +1,22 @@
+\cvtag{FP\&A}
+\cvtag{Scenario Analysis}
+\cvtag{Cost Accounting}
+\cvtag{International GAAP Accounting}
+\cvtag{Advanced Statistics}
+\cvtag{Tableau}
+\cvtag{Power BI}
+\cvtag{SalesForce}
+\cvtag{G-Suite}
+\cvtag{MS Office}
+\cvtag{Government Contracting}
+\cvtag{Pivot Tables}
+\cvtag{SQL}
+\cvtag{Project Management}
+\cvtag{SOX}
+\cvtag{Internal Audit}
+\cvtag{ERP}
+\cvtag{JIRA}
+\cvtag{Technical Writing}
+\cvtag{Data Analysis}
+\cvtag{General Ledger}
+\cvtag{Inventory Analysis}
