@@ -1,0 +1,1 @@
+pandoc -H webheader.html -f markdown -t html index.md -o index.html
