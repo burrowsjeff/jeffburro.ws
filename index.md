@@ -9,7 +9,7 @@ Jeff Burrows has a MBA from the University of Arizona and has worked in finance,
 ## Security
 
 * [PGP public key](burrows_pub.asc)
-* [Signal Messenger Verification](signal.html)
+* [Keybase](https://keybase.io/burrowsjeff)
 
 ## Connect
 
