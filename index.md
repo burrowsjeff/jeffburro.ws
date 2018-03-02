@@ -4,7 +4,7 @@
 
 ## About
 
-Jeff Burrows has a MBA from the University of Arizona and has worked in finance, accounting, operations, and IT within a variety of different industries. Jeff currently works in the information security sector as a risk management and governance consultant. When not working in risk and security compliance, Jeff can be found running, biking, hiking, camping, backpacking, or making some stuff out of wood.
+Jeff Burrows has a MBA from the University of Arizona and has worked in finance, accounting, operations, and IT within a variety of different industries. Jeff currently works in the information security sector as a Risk and Compliance Specialist with Unity Technologies. When not working in risk and security compliance, Jeff can be found running, biking, hiking, camping, backpacking, or making some stuff out of wood.
 
 ## Security
 
